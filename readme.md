@@ -1,1 +1,1 @@
-shader for my girlfriend and a learning ground fro minecraft shaders
+shader for my girlfriend and a learning ground for minecraft shaders
